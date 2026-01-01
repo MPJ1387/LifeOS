@@ -1,4 +1,7 @@
+gspread
+oauth2client
 streamlit
 pandas
 plotly
 jdatetime
+streamlit-nej-datepicker
